@@ -1,0 +1,19 @@
+{
+  "name": "eptalagumesm",
+  "version": "1.0.0",
+  "description": "sonn gaserm el ecksyupre u enyad",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nomilous/eptalagumesm.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nomilous/eptalagumesm/issues"
+  },
+  "homepage": "https://github.com/nomilous/eptalagumesm#readme"
+}
